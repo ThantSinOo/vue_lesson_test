@@ -1,0 +1,7 @@
+{
+    "posts":[
+        { "id": 1, "title": "candy", "price": "1500" },
+        { "id": 2, "title": "fish", "price": "2000" },
+        { "id": 3, "title": "flower", "price": "13000" } 
+    ]
+}
